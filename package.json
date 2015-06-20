@@ -1,0 +1,15 @@
+{
+  "name": "csu-node-dev",
+  "description": "CSU Node Dev Environment",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "morgan": "*",
+    "underscore": "*"
+  },
+  "engines": {
+    "node": "0.8.4",
+    "npm": "1.1.49"
+  }
+}
