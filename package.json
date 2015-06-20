@@ -1,6 +1,6 @@
 {
-  "name": "csu-node-dev",
-  "description": "CSU Node Dev Environment",
+  "name": "kurtisdunn",
+  "description": "Open Weather API",
   "version": "0.0.1",
   "private": true,
   "dependencies": {

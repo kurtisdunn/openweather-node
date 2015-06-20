@@ -1,7 +1,6 @@
 // app/routes.js
 module.exports = function(app, _, http) {
   app.get('/weather/6620339', function(req, res) {
-    // Initial REST load
     var body = JSON.stringify({
       "id": 6620339,
       "units": 'metricm'
